@@ -1,2 +1,2 @@
 # VolcaniHpc
-volcani Hpc automation
+volcani HPC automation
